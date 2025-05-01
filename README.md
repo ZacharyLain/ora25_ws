@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+# ors25_ws
+Testing ROS2 Humble for the ORA 2025 team
+=======
 # ora25_ws
 
 
@@ -70,3 +74,4 @@ ros2 launch ora_navigation twist_mux.launch.py
 ```
 
 ~ to get started with a simulation that can be controlled through a connected controller or the `teleop_twist_keyboard`
+>>>>>>> main
